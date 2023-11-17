@@ -19,7 +19,7 @@ This repository contains the GraphQL API backend for a blog application, offerin
 ## Tech Stack
 
 - **Backend:**
-  - Node.js with Express for a robust server.
+  - Node.js
   - PostgreSQL for storing user information and blog posts.
   - GraphQL API for efficient communication with the frontend.
 

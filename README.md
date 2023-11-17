@@ -45,11 +45,9 @@ This repository contains the GraphQL API backend for a blog application, offerin
 
 3. Configure environment variables:
 
-## Environment Variables
+   - Create a .env file in the root of the project and add the following variables:
 
-Create a .env file in the root of the project and add the following variables:
-
-   Set up environment variables for PostgreSQL connection, JWT secret, etc.
+   - Set up environment variables for PostgreSQL connection, JWT secret, etc.
 
 4. Run the application:
 
